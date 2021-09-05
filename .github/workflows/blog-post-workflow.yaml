@@ -1,8 +1,8 @@
 name: Latest blog post workflow
 on:
-  push:
-    branches:
-      - master
+  schedule:
+    # Runs every 12 hours
+    - cron: '0 */12 * * *'
 
 jobs:
   update-readme-with-blog:
