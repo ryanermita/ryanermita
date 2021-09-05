@@ -49,6 +49,8 @@ Hi! I’m Ryan. I find joy in engineering softwares; the excitement, frustration
 </p>
 
 ### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ### 🤝🏻 &nbsp;Connect with Me
 <a href="https://linkedin.com/in/ryanermita"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
