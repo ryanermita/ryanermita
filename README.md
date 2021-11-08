@@ -53,7 +53,7 @@ Hi! I’m Ryan. I find joy in engineering softwares; the excitement, frustration
 - [Takeaways from Google Technical Writing Course](https://ryanermita.com/posts/takeaways-from-Google-technical-writing-course)
 - [Creating My Own Blog Using GatsbyJS](https://ryanermita.com/posts/creating-my-own-blog-using-gatsbyjs)
 - [Fix Liquibase Duplicate Key Constraints](https://ryanermita.com/posts/fix-liquibase-duplicate-key-constaints)
-- [Why use TEXT over VARCHAR(n)](https://ryanermita.com/posts/why-use-text-over-varchar-n)
+- [Why use TEXT over VARCHAR&lpar;n&rpar;](https://ryanermita.com/posts/why-use-text-over-varchar-n)
 - [Learning RabbitMQ](https://ryanermita.com/posts/learning-rabbitmq)
 <!-- BLOG-POST-LIST:END -->
 
